@@ -1,0 +1,25 @@
+/* Estilos generales */
+body {
+    background-color: #fff; // Cambia si usás otro fondo
+    color: #333;            // Cambia según tu color de texto principal
+    font-family: 'Poppins', sans-serif; // O el que uses
+    font-size: 16px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
